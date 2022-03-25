@@ -8,7 +8,6 @@ All the code is publicly viewable. You can clone the project locally and to view
 ## Technology used
 Django for backend API
 Bootstrap for frontend
-Tailwind css for frontend
 HTML
 
 ## Support and Contact
