@@ -1,4 +1,5 @@
 # DJANGO API WEBSITE
+
 ## Description
 This is an events management app that allows users to post and share about their events information and venues.
 
